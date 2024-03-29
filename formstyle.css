@@ -1,0 +1,47 @@
+#D1
+{
+    padding: 10px 9px;
+}
+#form2
+{
+    background-color: #F86F03;
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.D2
+{
+    margin: -35px 70px;
+}
+.D3
+{
+    margin: 57px 70px;
+}
+.D4
+{
+    margin:-35px 65px;
+}
+#D5
+{
+    font-size: 25px;
+    padding-top: 55px;
+}
+
+#I1,#I2,#I3
+{
+    border: none;
+    border-bottom: 1px solid black;
+   background-color: #e9ecef;
+    width: 100%;
+}
+#B1
+{
+    border-radius: 25px;
+    padding: 15px;
+    background-color: #F86F03;
+    color: white;
+    border: none;
+    text-decoration: none;
+}
+

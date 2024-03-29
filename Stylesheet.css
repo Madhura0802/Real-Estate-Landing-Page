@@ -1,0 +1,55 @@
+#logo
+{
+    color: #A8DF8E;
+    font-family: 'Ink Free';
+    font-size: 100px;
+    margin-top: 10px;
+   
+}
+#main
+{
+    background-image: url(Images/Website\ Background\ _page-0001.jpg);
+}
+#HomeImage
+{
+    mix-blend-mode: darken;
+    width: 700px;
+    height: 1200px;
+    margin-top: -60px;
+}
+#Button1
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #C7E9B0;
+    color: black;
+
+}
+
+#card1
+{
+   
+    height: 500px;
+}
+#card2
+{
+    height: 500px;
+}
+#card3
+{
+    height: 500px;
+}
+.checked
+{
+    color: orange;
+}
+#T1
+{
+    border: none;
+   
+    box-sizing: none;
+    background-color: #e9ecef;
+}
